@@ -1,0 +1,8 @@
+{
+	"name": "Node app test",
+	"description": "Bare",
+	"repository": "https://github.com/nonstopcode/nodetest.git",
+	"logo": "http://node-js-sample.herokuapp.com/node.svg",
+	"keywords": ["node", "static"],
+	"image": "heroku/nodejs"
+}
